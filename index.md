@@ -27,6 +27,8 @@ Syntax highlighted code block
 
 ```
 
+Finally, inline in your markdown file, insert an `<iframe></iframe>` tag, like the example below:
+```html
 <iframe src="flowers.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -35,6 +37,7 @@ Syntax highlighted code block
     seamless="seamless"
     frameborder="0">
 </iframe>
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
