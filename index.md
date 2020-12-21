@@ -6,7 +6,7 @@ This report provides (1) a comprehensive overview of regional differences in ear
 
 The following dynamic visualization indicates changes in average temperature by country:
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/1.embed" height="725" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/1.embed" height="525" width="100%"></iframe>
 
 This is broken down by region:
 
