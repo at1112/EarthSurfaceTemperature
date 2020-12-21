@@ -28,9 +28,9 @@ Syntax highlighted code block
 ```
 
 Finally, inline in your markdown file, insert an `<iframe></iframe>` tag, like the example below:
-```html
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/1.embed" height="525" width="100%"></iframe>
-```
+
+
+{% include plot.html %}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
