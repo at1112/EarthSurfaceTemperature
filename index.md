@@ -13,3 +13,8 @@ This is broken down by region:
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/7.embed" height="525" width="100%"></iframe>
 
 
+This has points all over the place:
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/10.embed" height="525" width="100%"></iframe>
+
+
