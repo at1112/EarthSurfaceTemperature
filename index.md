@@ -1,6 +1,8 @@
 ## Welcome to Anjali's final project site!
 
-This report showcases changes in earth surface temperature over the last 200 years, separated by country and continent....
+This report showcases changes in earth surface temperature over the last 200 years, separated by country and continent...
+
+
 
 ### Markdown
 
