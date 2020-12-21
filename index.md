@@ -1,4 +1,4 @@
-## An Overview of Regional Changes in Earth Surface Temperature (1950 - 2013): Policy Recommendations 
+## An Overview of Regional Effects of Climate Variability: Policy Recommendations 
 
 ### Executive Summary 
 
@@ -10,7 +10,7 @@ Policy recommendations focus on addressing food insecurity in low-latitude regio
 
 Kaggle provides publicly-accessible earth surface temperature data compiled by Berkeley Earth, with an Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. 
 
-This dataset was used jointly with Food & Agriculture data (FAOSTAT) provided by the Food and Agriculture Organization (FAO) of the United Nations (http://www.fao.org/faostat/en/#home), and downloaded from Kaggle. FAO is a specialized agency leading international efforts for alleviating hunger and achieving worldwide food security. The specific crop production index pertaining to the gross production value of Agricultural production (relative to base period 1999-2001) is provided at the country-year level (unit is 1000 international dollars).   
+This dataset was used jointly with [Food & Agriculture data (FAOSTAT)](http://www.fao.org/faostat/en/#home) provided by the Food and Agriculture Organization (FAO) of the United Nations , and downloaded from Kaggle. FAO is a specialized agency leading international efforts for alleviating hunger and achieving worldwide food security. The specific crop production index pertaining to the gross production value of Agricultural production (relative to base period 1999-2001) is provided at the country-year level (unit is 1000 international dollars).   
 
 Finally, the Greenhouse Gas (GHG) Inventory data was utilized to visualize emissions contributions at the country level. This dataset was downloaded from Kaggle, and the full dataset is published on UNData (http://data.un.org/Explorer.aspx) The temporal scope of this data covers the period from 1990 to 2007. Anthropogenic emissions values are reported in kilotons CO2, with land use metrics subtracted and additional GHG removals of methane (CH4), nitrous oxide (N20), hydrofluorocarbons (HFCs), and perfluorocarbons (PFCs), among others. 
 
