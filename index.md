@@ -8,4 +8,4 @@ The following dynamic visualization indicates changes in average temperature by 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/1.embed" height="525" width="100%"></iframe>
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/7.embed" height="525" width="100%"></iframe>
+
