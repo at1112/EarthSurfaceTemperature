@@ -42,7 +42,7 @@ This has points all over the place:
 3.	We recommend land-based changes in countries in the Americas to mitigate the negative temperature effects in other regions. This can also be accomplished through diversifying food choice in higher-latitude regions as well, because production systems and individual diets play a large role in greenhouse gas contributions. 
 4.	Implementing more efficient production and transport measures in the Americas can potentially offset the impact of lower crop yields in low-latitude regions that do not possess the infrastructure to alleviate the adverse effects of agricultural changes.
 
-
+ 
 ### List/description of the significant technologies/platforms used
 I used *Plotly*'s Python interactive graphing library to create the visualizations embedded above. *Plotly* is an open-source graphing library built on top of plotly.js (https://plotly.com/javascript/). 
 
