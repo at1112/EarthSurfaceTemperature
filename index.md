@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 Finally, inline in your markdown file, insert an `<iframe></iframe>` tag, like the example below:
 ```html
-<iframe src="flowers.html"
+<iframe src="/EarthSurfaceTemperature/flowers.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
