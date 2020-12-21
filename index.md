@@ -28,9 +28,9 @@ Syntax highlighted code block
 ```
 
 Finally, inline in your markdown file, insert an `<iframe></iframe>` tag, like the example below:
-
-
+```html
 {% include plot.html %}
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
