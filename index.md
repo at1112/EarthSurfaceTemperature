@@ -12,7 +12,7 @@ Kaggle provides publicly-accessible earth surface temperature data compiled by B
 
 This dataset was used jointly with [Food & Agriculture data (FAOSTAT)](http://www.fao.org/faostat/en/#home) provided by the Food and Agriculture Organization (FAO) of the United Nations , and downloaded from Kaggle. FAO is a specialized agency leading international efforts for alleviating hunger and achieving worldwide food security. The specific crop production index pertaining to the gross production value of Agricultural production (relative to base period 1999-2001) is provided at the country-year level (unit is 1000 international dollars).   
 
-Finally, the Greenhouse Gas (GHG) Inventory data was utilized to visualize emissions contributions at the country level. This dataset was downloaded from Kaggle, and the full dataset is published on UNData (http://data.un.org/Explorer.aspx) The temporal scope of this data covers the period from 1990 to 2007. Anthropogenic emissions values are reported in kilotons CO2, with land use metrics subtracted and additional GHG removals of methane (CH4), nitrous oxide (N20), hydrofluorocarbons (HFCs), and perfluorocarbons (PFCs), among others. 
+Finally, the Greenhouse Gas (GHG) Inventory data was utilized to visualize emissions contributions at the country level. This dataset was downloaded from Kaggle, and the full dataset is published on [UNData](http://data.un.org/Explorer.aspx) The temporal scope of this data covers the period from 1990 to 2007. Anthropogenic emissions values are reported in kilotons CO2, with land use metrics subtracted and additional GHG removals of methane (CH4), nitrous oxide (N20), hydrofluorocarbons (HFCs), and perfluorocarbons (PFCs), among others. 
 
 
 #### Changes in Average Temperature (degrees Celsius) by Country 
@@ -44,9 +44,9 @@ This has points all over the place:
 
  
 ### List/description of the significant technologies/platforms used
-I used *Plotly*'s Python interactive graphing library to create the visualizations embedded above. *Plotly* is an open-source graphing library built on top of plotly.js (https://plotly.com/javascript/). 
+I used *Plotly*'s Python interactive graphing library to create the visualizations embedded above. *Plotly* is an open-source graphing library built on top of [plotly.js](https://plotly.com/javascript/). 
 
-I created these visualizations in Jupyter notebooks after performing preliminary data cleaning and exploratory analysis with *NumPy* and *Pandas*. I employed Chart Studio's python package and HTML in order to embed these visualizations. This site was created using GitHub Pages (https://pages.github.com/).
+I created these visualizations in Jupyter notebooks after performing preliminary data cleaning and exploratory analysis with *NumPy* and *Pandas*. I employed Chart Studio's python package and HTML in order to embed these visualizations. This site was created using [GitHub Pages](https://pages.github.com/).
 
 Technical Documentation can be found here:
 
