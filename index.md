@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Anjali's final project site!
 
 You can use the [editor on GitHub](https://github.com/at1112/EarthSurfaceTemperature/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
