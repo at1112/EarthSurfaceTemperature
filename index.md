@@ -29,14 +29,7 @@ Syntax highlighted code block
 
 Finally, inline in your markdown file, insert an `<iframe></iframe>` tag, like the example below:
 ```html
-<iframe src="/EarthSurfaceTemperature/flowers.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/1.embed" height="525" width="100%"></iframe>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
