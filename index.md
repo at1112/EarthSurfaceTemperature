@@ -6,31 +6,38 @@ This report provides (1) a holistic overview of regional and temporal difference
 
 Policy recommendations focus on addressing food insecurity in low-latitude regions and leveraging the climate feedback mechanisms behind higher crop yield in high-latitude regions to offset reduced crop production in low-latitude regions (e.g. countries in Asia and Africa). It is proposed that high-latitude regions implement a combination of supply-side measures including grazing land management strategies, food diversification efforts, and more efficient transport measures  to reduce greenhouse gas contributions, and thereby offset the impact of lower crop yields in low-latitude regions that (1) experience higher average temperatures than the rest of the world, and (2) do not possess the political or economic infrastructure to alleviate the adverse effects of agricultural changes. 
 
+### Methodology
+
+
+
+
+### Findings
+
+
 The visualization below depicts average temperature at the country level (recorded in degrees Celsius) for each year in the period 1950 - 2013. 
 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/1.embed" height="525" width="100%"></iframe>
 
 
-The visualization below depicts average temperature means calculated at the level of continental region. It is apparent that Asia and Africa consistently experience higher temperatures, Oceania & the Americas experience moderate climates, and Europe experiences lower temperature on average, likely due to hemispheric regional climate effects. Surface Temperature data by region was aggregated over the period 1950 – 2013 since this was the mutual temporal scope of the merged data after correcting for missingness and omitting outliers. Additionally, I wanted to examine temperature trends at the continent level during the beginning of the Green Revolution.
+The visualization below depicts average temperature means calculated at the level of continental region. It is apparent that Asia and Africa consistently experience higher temperatures, Oceania & the Americas experience moderate climates, and Europe experiences lower temperature on average, likely due to hemispheric regional climate effects. Surface Temperature data by region was aggregated over the period 1950 – 2013 since this was the mutual temporal scope of the merged data after correcting for missingness and omitting outliers. Additionally, I wanted to examine temperature trends at the continent level during the beginning of the Green Revolution.I used [ColorBrewer](https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=5) to select a 5-class RdYlBu palette that is color-blind friendly. 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/25.embed" height="525" width="100%"></iframe>
 
-The following visualization indicates average crop production indices by continental region, over the period 1961-2007. These production indices pertain specifically to the gross production value of agricultural sectors (relative to base period 1991-2001), reported in units of $1,000 International dollars. It is evident that Asia experiences a dramatic surge in gross production value for countries' agricultural sectors, which can be attributed to the adoption of agricultural initiatives during the Green Revolution starting in the 1950s and 1960s. 
+The following visualization indicates average crop production indices by continental region, over the period 1961-2007. These production indices pertain specifically to the gross production value of agricultural sectors (relative to base period 1991-2001), reported in units of $1,000 International dollars. It is evident that Asia experiences a dramatic surge in gross production value for countries' agricultural sectors, which can be attributed to the adoption of agricultural initiatives during the Green Revolution starting in the 1950s and 1960s. I used [ColorBrewer](https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=5) to select a 5-class RdYlBu palette that is color-blind friendly. 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/31.embed" height="525" width="100%"></iframe>
 
-#### The Big Emitters
- [bar graph]
- dfs
+
 
 #### The Green Revolution: Crop Production Index versus Average Temperature (degrees Celsius)
 This has points all over the place:
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/10.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/33.embed" height="525" width="100%"></iframe>
 
+A zoomed-in version:
 
-### Methodology
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/36.embed" height="525" width="100%"></iframe>
 
 ### Recommendations:
 
@@ -46,9 +53,9 @@ Kaggle provides publicly-accessible earth surface temperature data on 243 countr
 
 This dataset was used jointly with [Food & Agriculture data (FAOSTAT)](http://www.fao.org/faostat/en/#home) provided by the Food and Agriculture Organization (FAO) of the United Nations , and downloaded from Kaggle. FAO is a specialized agency leading international efforts for alleviating hunger and achieving worldwide food security. The specific crop production index pertaining to the gross production value of Agricultural production (relative to base period 1999-2001) is provided at the country-year level (unit is 1000 international dollars). After removing missing values, the temporal scope of this data spans the period 1961-2007. 
 
-Finally, the Greenhouse Gas (GHG) Inventory data was utilized to visualize emissions contributions at the country level. This dataset was downloaded from Kaggle, and the full dataset is published on [UNData](http://data.un.org/Explorer.aspx) The temporal scope of this data covers the period from 1990 to 2007. Anthropogenic emissions values are reported in kilotons CO2, with land use metrics subtracted and additional GHG removals of methane (CH4), nitrous oxide (N20), hydrofluorocarbons (HFCs), and perfluorocarbons (PFCs), among others. 
  
-### List/description of the significant technologies/platforms used
+### Tools
+
 I used *Plotly*'s Python interactive graphing library to create the visualizations embedded above. *Plotly* is an open-source graphing library built on top of [plotly.js](https://plotly.com/javascript/). 
 
 I created these visualizations in Jupyter notebooks after performing preliminary data cleaning and exploratory analysis with *NumPy* and *Pandas*. I employed Chart Studio's python package and HTML in order to embed these visualizations. This site was created using [GitHub Pages](https://pages.github.com/).
