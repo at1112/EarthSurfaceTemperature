@@ -8,16 +8,20 @@ Policy recommendations focus on addressing food insecurity in low-latitude regio
 
 ### Data Sources
 
-Kaggle provides publicly-accessible earth surface temperature data compiled by Berkeley Earth, with an Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. 
+Kaggle provides publicly-accessible earth surface temperature data on 243 countries compiled by Berkeley Earth, with an Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. After removing missing values, the temporal scope of this data spans the period 1750-2015. 
 
-This dataset was used jointly with [Food & Agriculture data (FAOSTAT)](http://www.fao.org/faostat/en/#home) provided by the Food and Agriculture Organization (FAO) of the United Nations , and downloaded from Kaggle. FAO is a specialized agency leading international efforts for alleviating hunger and achieving worldwide food security. The specific crop production index pertaining to the gross production value of Agricultural production (relative to base period 1999-2001) is provided at the country-year level (unit is 1000 international dollars).   
+This dataset was used jointly with [Food & Agriculture data (FAOSTAT)](http://www.fao.org/faostat/en/#home) provided by the Food and Agriculture Organization (FAO) of the United Nations , and downloaded from Kaggle. FAO is a specialized agency leading international efforts for alleviating hunger and achieving worldwide food security. The specific crop production index pertaining to the gross production value of Agricultural production (relative to base period 1999-2001) is provided at the country-year level (unit is 1000 international dollars). After removing missing values, the temporal scope of this data spans the period 1961-2007. 
 
 Finally, the Greenhouse Gas (GHG) Inventory data was utilized to visualize emissions contributions at the country level. This dataset was downloaded from Kaggle, and the full dataset is published on [UNData](http://data.un.org/Explorer.aspx) The temporal scope of this data covers the period from 1990 to 2007. Anthropogenic emissions values are reported in kilotons CO2, with land use metrics subtracted and additional GHG removals of methane (CH4), nitrous oxide (N20), hydrofluorocarbons (HFCs), and perfluorocarbons (PFCs), among others. 
 
 
-#### Changes in Average Temperature (degrees Celsius) by Country 
+#### Global Changes in Average Temperature (degrees Celsius), by Country  (1950 - 2013)
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/1.embed" height="525" width="100%"></iframe>
+
+#### Average Temperature (degrees Celsius), by Continental Region (1950 - 2013)
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/25.embed" height="525" width="100%"></iframe>
 
 #### Crop Production Index: Regional Differences
 
