@@ -16,9 +16,9 @@ The visualization below depicts average temperature means calculated at the leve
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/25.embed" height="525" width="100%"></iframe>
 
-#### Crop Production Index: Regional Differences
+The following visualization indicates average crop production indices by continental region, over the period 1961-2007. These production indices pertain specifically to the gross production value of agricultural sectors (relative to base period 1991-2001), reported in units of $1,000 International dollars. It is evident that Asia experiences a dramatic surge in gross production value for countries' agricultural sectors, which can be attributed to the adoption of agricultural initiatives during the Green Revolution starting in the 1950s and 1960s. 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/7.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/31.embed" height="525" width="100%"></iframe>
 
 #### The Big Emitters
  [bar graph]
