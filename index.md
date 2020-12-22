@@ -32,9 +32,14 @@ The following visualization indicates average crop production indices by contine
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/31.embed" height="525" width="100%"></iframe>
 
-The plot below displays country-level crop production indices (1,000 I$) over the years 1961 - 2007 with continental region indicators. Rising earth surface temperatures are characterized by subtle incremental changes that are difficult to capture. However, using the plot below, one might be able to follow how specific countries' agricultural productivity indicies change over time. This plot is limited to crop production index values below 60,000,000 (1,000 I$). Countries which experience crop production indicies above this threshold move outside of the bounds of this particular visualization so that we can better visualize countries with crop production indices in this range. We can also infer that China's drastic increase in crop production might be contributing to the overall sharp increase in crop production at the level of continental region in the plot displayed above. 
+The plot below displays country-level crop production indices (1,000 I$) over the years 1961 - 2007 with continental region indicators. Rising earth surface temperatures are characterized by subtle incremental changes that are difficult to capture. However, using the plot below, one might be able to follow how specific countries' agricultural productivity indicies change over time. This plot is limited to crop production index values below 60,000,000 (1,000 I$). Countries which experience crop production indicies above this threshold move outside of the bounds of this particular visualization so that we can better visualize countries with crop production indices in this range. We can use this visualization jointly with the one above in order to understand which countries might be contributing to sharp increases in crop production index at the continental region level (e.g. China, Brazil, etc). 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/33.embed" height="525" width="100%"></iframe>
+
+Here is the same data scaled out in order to better visualize sharp, exponential increases in a few "outlier" countries (e.g. China): 
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/39.embed" height="525" width="100%"></iframe>
+
 
 
 ### Recommendations:
