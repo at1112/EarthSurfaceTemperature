@@ -36,7 +36,7 @@ The plot below displays country-level crop production indices (1,000 I$) over th
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/33.embed" height="525" width="100%"></iframe>
 
-Here is the same data scaled out in order to better visualize sharp, exponential increases in a few "outlier" countries (e.g. China): 
+Here is the same data "zoomed out" in order to better visualize sharp, exponential increases in a few "outlier" countries (e.g. China): 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~at1112/39.embed" height="525" width="100%"></iframe>
 
