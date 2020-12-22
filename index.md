@@ -1,5 +1,6 @@
 # Regional Effects of Climate Variability: Temperature-Agriculture Relationships
-## Anjali Taneja
+## Anjali Taneja 
+#### PPOL-563
 
 ### Executive Summary 
 
@@ -7,7 +8,7 @@ It is hypothesized that small, incremental increases in earth surface temperatur
 
 This report provides (1) a holistic overview of regional and temporal differences in earth surface temperature change and crop production and (2) a preliminary picture of how regional effects of these variables change over time. An examination of trends at both the country level and continental region level provide a foundation for studying how climate feedback mechanisms might produce differential crop yields in high-latitude and low-latitude regions. The "Green Revolution" beginning in the 1950s is plausibly responsible for higher crop production indices over the last 50-60 years; it is difficult to capture temperature effects on crop yields due to the effect of agricultural production initiatives occurring post-World War II. Further research is required to understand the more granular implications of regional effects of temperature on agricultural production indices at the country level. 
 
-The findings that follow serve as a foundation for examining how to address food insecurity in regions marked by higher temperature and lower crop production indices, and leveraging the climate feedback mechanisms behind higher crop yield in northern hemispheric regions to offset reduced crop production in countries exhibiting high temperatures and low crop production indices (e.g. Africa). It is proposed that regions marked by higher gross crop production and mild and moderate climate factors (e.g. Europe, Americas) implement a combination of supply-side measures including grazing land management strategies, food diversification efforts, and more efficient transport measures to reduce greenhouse gas contributions ([IPCC](https://www.ipcc.ch/srccl/chapter/chapter-5/)), and thereby offset the impact of lower crop yields in regions such as Africa that (1) experience higher average temperatures than the rest of the world, and (2) do not possess the political or economic infrastructure to alleviate the adverse effects of temperature-related agricultural changes. 
+The findings that follow serve as a foundation for examining how to address food insecurity in regions marked by higher temperature and lower crop production indices, and leveraging the climate feedback mechanisms behind higher crop yield in northern hemispheric regions to offset reduced crop production in countries exhibiting high temperatures and low crop production indices (e.g. Africa). It is proposed that regions marked by higher gross crop production and mild and moderate climate factors (e.g. Europe, Americas) implement a combination of supply-side measures including grazing land management strategies, food diversification efforts, and more efficient transport measures to reduce greenhouse gas contributions ([IPCC](https://www.ipcc.ch/srccl/chapter/chapter-5/)), and thereby offset the impact of lower crop yields in regions such as Africa that (1) experience higher average temperatures than the rest of the world, and (2) do not possess the political or economic infrastructure to alleviate the adverse effects of temperature-related agricultural changes.  
 
 ### Data Sources & Methodology
 
